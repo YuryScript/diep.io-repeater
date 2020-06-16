@@ -1,5 +1,5 @@
 # diep.io-repeater
-Diep.io repeater
+Diep.io repeater ( diep.io bot )
 
 Повторяет действия совершенные в одной вкладке для других вкладок, скрипт можно запустить из консоли либо из расширений подобных "User JavaScript and CSS"
 
